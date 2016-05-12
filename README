@@ -1,0 +1,30 @@
+====Matt and Tyler's Summer of Code 2016====
+
+Not to be confused with Google's Summer of Code which hopefully isn't trademarked or anything, 
+(Please don't sue us, Google, we are but poor starving college students who want to code for the summer
+of 2016 to keep our coding chops sharp for the fall semester.  Some of us don't have consistant power,
+some of us eat Ramen noodles, some of us eat the college's cafeteria display meals.  Please Don't Sue Us.)
+
+
+This repository exists for Matt (https://github.com/robgraves) and Tyler (https://github.com/nullist) 
+to work on a couple of brainstormed projects that we would like to work togteher on over this summer,
+which may all be worked on or we may converge on a single project. 
+
+1) Both Tyler and myself expresed an interest in coding some type of game over summer break and upon
+further examination, I personally was looking to code a game in ncurses whereas Tyler has an interest in
+doing in in SDL or SDL2.  I'm actually game for that as well, which might turn the ncurses game into a
+solo project for myself. 
+
+2) Also I personally have taken an interest in some of the old school telnet BBS's like syncronet and
+Mystic BBS as I log into and use a couple that others have up and would like to set up my own, while not
+explicitly a coding project, it is something I would like to explore and experiment with over this summer
+and Tyler also seems to share my interest in it. 
+
+3) Both Tyler and my previous collaborative effort, the manage script for the samba server won an award
+at Corning Community College's Sustainability Fair and hence we both won some prize money.  We both are
+thinking of pickign up new Raspberry Pis or something like that, so a project involving those could
+potentially get involved with this "Summer of Code 2016."  Tyler also expresed an interest in learning 
+some python which I need to freshen up on and learn in depth myself and we could do that together while
+exploring how we can incorporate it into our endeavors with the Raspberry Pis or whatever we get. 
+
+Matthew Page 05/11/2016
